@@ -2,7 +2,7 @@
 
 
 # Resources 
-### WSL (Windows Subsystem for Linux) **Optional**
+### WSL (Windows Subsystem for Linux) *Optional*
 If you want you should use WSL so that we don't have to worry about cross compatibility stuff. You're going to want to learn how to use linux at some point anyway, so this is probably a low stakes way to get started. I've never used WSL but I can always help out with anything you need. 
 
 https://github.com/microsoft/WSL
