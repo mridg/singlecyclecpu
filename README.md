@@ -4,7 +4,9 @@
 # Resources 
 ### WSL (Windows Subsystem for Linux) **Optional**
 If you want you should install and use WSL so that we don't have to worry about cross compatibility stuff. You're going to want to learn how to use linux at some point anyway, so this is probably a low stakes way to get started. I've never used WSL but I can always help out with anything you need. 
+
 https://github.com/microsoft/WSL
+
 Use this link to get started and look at the README for the info to get it installed and set up 
 You're going to have to learn some basic linux commands but lowkey just ask chatgpt to teach you as you go and you'll memorize the important ones as you go along. You're also going to have to get used to using git and github. 
 
