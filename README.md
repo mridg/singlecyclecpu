@@ -18,7 +18,7 @@ BUT if you don't really want to there are ways to just use windows and it should
 
 ### Git and Github
 I think its easiest if you just ask chat if you need help with getting started (I imagine you alr know how to use git tho). 
-For organization purposes, NEVER commit to main unless both of us have agreed on it. You can do anything you want in the branch that has your name on it. NEVER touch my branch and I will never touch yours. This will just make sure that we don't run into merge conflicts.
+For organization purposes, NEVER commit to main unless both of us have agreed on it or you're editing the README. You can do anything you want in the branch that has your name on it. NEVER touch my branch and I will never touch yours. This will just make sure that we don't run into merge conflicts.
 
 ### Stanford Slides 
 Go through these before you get started. It'll be a good overview / review of everything we're going to need to get this project going. 
