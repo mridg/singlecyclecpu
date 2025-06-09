@@ -6,7 +6,7 @@ TBD
 Monday June 9th: 
 + Verify the adder
 + Discuss project idea and goals for the week
-+ Set up environment
+https://github.com/mridg/singlecyclecpu.git+ Set up environment
 
 # Process
 I think the easiest way to approach this is to start off by building the simplest modules, testing them, and then putting them together. I started off by writing a simple adder, and we can move up from there. We'll also need simple components like muxes, encoders and decoders. Once we get the simplest adder set up, we can do a carry lookahead adder and a component that does twos complement conversions. Next we can do shift registers, then that can be used to make a multiplier (lets use booth's algorithm approach). Once we have all of these set up we can put it all together to make an ALU. Then we can figure out the ISA and things like the program counter and memory. Once we have all this set up we have a computer that can execute simple RISC-V instructions. Obviously to make it actually execute the instructions we're going to need to write a program that turns assembly into machine code. Making this compiler can also be a more advanced goal for a future project, but I've done these conversions by hand for our exam, so I don't think it will be too difficult to implement. We can just write it in python. 
