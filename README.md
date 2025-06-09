@@ -20,7 +20,7 @@ For our organization purposes NEVER commit to main unless both of us have agreed
 Go through these before you get started. It'll be a good overview / review of everything we're going to need to get this project going. 
 
 ### ECE362 Slides
-These are the slides from my embedded systems class last semester. The slides aren't super descriptive, so I can explain them in more depth later. I'll probably go through them again myself so if I do, I'll add my own notes and commentary to this folder. I left my notebook at school so I'm going to have to go through everything again anyway :')
+These are the slides from my embedded systems class last semester. The slides aren't super descriptive, so I can explain them in more depth later. I'll add my own notes and commentary to this folder too. I left my notebook at school so I'm going to have to go through everything again anyway :')
 
 ### Icarus Verilog 
 I went through a bunch of different options (verilator, quartus, etc) and I think icarus is probably the best for us. Verilator is a bit too much for what we want to do, and I don't want to install the software for Quartus LMAO. 
