@@ -17,39 +17,47 @@ module addertb ();
   );
 
   initial begin 
-    $monitor("time = %3d, s = %b, cout = %b \n",
-      $time, s, cout);
+    $monitor("time = %3d, a%b b%b c%b s = %b, cout = %b \n",
+      $time, a, b, cin, s, cout);
     a = 1'b0;
     b = 1'b0;
     cin = 1'b0;
-    # 20 
+
+    # 10 
     a = 1'b1;
     b = 1'b0;
     cin = 1'b0;
-    # 20 
+
+    # 10 
     a = 1'b0;
     b = 1'b1;
     cin = 1'b0;
-    # 20 
+
+    # 10 
     a = 1'b0;
     b = 1'b0;
     cin = 1'b1;
-    # 20 
+
+    # 10 
     a = 1'b1;
     b = 1'b1;
     cin = 1'b0;
-    # 20 
+
+    # 10 
     a = 1'b1;
     b = 1'b0;
     cin = 1'b1;
-    # 20 
+
+    # 10 
     a = 1'b0;
     b = 1'b1;
     cin = 1'b1;
-    # 20 
+
+    # 10 
     a = 1'b1;
     b = 1'b1;
     cin = 1'b1;
+
   end
 endmodule 
 
